@@ -34,8 +34,8 @@ Semua penekanan tombol akan disimpan ke dalam file bernama keyfile.txt.
 --
 ```
 keylogger.py
-Skrip utama keylogger
 ```
+Skrip utama keylogger
 ```
 keyfile.txt
 ```
