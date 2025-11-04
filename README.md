@@ -36,10 +36,10 @@ Skrip utama keylogger
 ```
 keylogger.py
 ```
-
+File tempat hasil log disimpan
 ```
 keyfile.txt
 ```
 
-File tempat hasil log disimpan
+
 
