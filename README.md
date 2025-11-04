@@ -32,10 +32,11 @@ Semua penekanan tombol akan disimpan ke dalam file bernama keyfile.txt.
 
 📂 Struktur File
 --
+Skrip utama keylogger
 ```
 keylogger.py
 ```
-Skrip utama keylogger
+
 ```
 keyfile.txt
 ```
