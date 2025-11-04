@@ -30,7 +30,6 @@ $python keylogger.py
 ```
 Semua penekanan tombol akan disimpan ke dalam file bernama keyfile.txt.
 
---
 📂 Struktur File
 --
 ```
@@ -40,7 +39,6 @@ Skrip utama keylogger
 ```
 keyfile.txt
 ```
---
 
 File tempat hasil log disimpan
 
